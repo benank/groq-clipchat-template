@@ -69,24 +69,18 @@ The extension opens as a chat interface in Chrome's side panel, but its true pow
    pnpm install
    ```
 
-3. **Run Development Server**
-   ```bash
-   pnpm run dev
-   ```
-   This starts the Vite dev server with live reloading and hot module replacement (HMR).
-
-4. **Build for Production**
+3. **Build for Production**
    ```bash
    pnpm run build
    ```
    The production-ready extension will be output to the `dist/` directory.
 
-5. **Load Extension in Chrome**
+4. **Load Extension in Chrome**
    - Open `chrome://extensions` in your browser
    - Enable **Developer Mode** (toggle in the top-right corner)
    - Click **Load unpacked** and select the `dist/` folder
 
-6. **Configure API Key**
+5. **Configure API Key**
    - Click the ClipChat extension icon in Chrome toolbar
    - Enter your [Groq API key](https://console.groq.com/keys) in the settings
    - Start chatting with Llama 4 models!
