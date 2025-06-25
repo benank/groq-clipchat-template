@@ -13,10 +13,6 @@ The extension opens as a chat interface in Chrome's side panel, but its true pow
 - **Visual Analysis**: Select regions or capture full-page screenshots for AI-powered image analysis
 - **Contextual Chat**: Ask questions about visual content with full context awareness
 - Sub-second response times with Groq Fast AI Inference acceleration
-- Modern side panel interface with beautiful UI built on Svelte 5 and TailwindCSS
-- Secure Chrome Manifest V3 implementation with minimal permissions
-- Real-time chat with context awareness and image analysis capabilities
-- Production-grade performance with efficient concurrent request handling powered by Groq
 
 ## Try It Now
 
