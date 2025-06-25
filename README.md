@@ -3,10 +3,9 @@
 **Chrome extension with Llama 4 multi-modal AI via Groq's fast inference. Chat with AI and analyze webpages directly in your browser.**
 
 ## Overview
+This Chrome extension demonstrates multi-modal AI chat capabilities using Groq API for ultra-fast inference with Llama 4 models, built as a complete template that you can fork, customize, and deploy as your own Chrome extension.
 
-This Chrome extension demonstrates multi-modal AI chat capabilities using Groq API for ultra-fast inference with Llama 4 models. Built as a complete, production-ready template that you can fork, customize, and deploy as your own Chrome extension.
-
-The extension opens as a chat interface in Chrome's side panel, but its true power lies in its **vision capabilities**. Users can select any region of a webpage or capture full-page screenshots, then ask Llama 4 questions about the visual content - from analyzing UI designs to extracting data from charts and diagrams.
+The extension opens as a chat interface in Chrome's side panel, but its true power lies in its **vision capabilities** - users can select any region of a webpage or capture full-page screenshots, then ask Llama 4 questions about the visual content, from analyzing UI designs to extracting data from charts and diagrams.
 
 **Key Features:**
 - Multi-Modal AI powered by Llama 4 Maverick and Scout models for text and image understanding
