@@ -2,6 +2,8 @@
 
 **Chrome extension with Llama 4 multi-modal AI via Groq's fast inference. Chat with AI and analyze webpages directly in your browser.**
 
+![clipchat demo](clipchat.gif)
+
 ## Overview
 This Chrome extension demonstrates multi-modal AI chat capabilities using Groq API for ultra-fast inference with Llama 4 models, built as a complete template that you can fork, customize, and deploy as your own Chrome extension.
 
@@ -233,7 +235,7 @@ This template is designed to be a foundation for you to get started with. Key ar
 - **Get support:** Connect with other developers building on Groq, chat with our team, and submit feature requests on our [Groq Developer Forum](https://community.groq.com)
 
 ### For Founders and Business Leaders
-- **See enterprise capabilities:** This template showcases production-ready AI that can handle realtime business workloads in browser extensions. See other applications and use cases for AI-powered browser tools
+- **See enterprise capabilities:** This template showcases production-ready AI that can handle realtime business workloads in browser extensions
 - **Discuss your needs:** [Contact our team](https://groq.com/enterprise-access/) to explore how Groq can accelerate your AI initiatives and browser-based applications
 
 ## Security Notes
@@ -263,4 +265,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Credits
 
-Created by Julian Francisco.
+Created by [Julian Francisco](https://www.linkedin.com/in/julian-francisco/).
